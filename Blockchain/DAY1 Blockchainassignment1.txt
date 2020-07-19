@@ -1,0 +1,62 @@
+1. What is your understanding of Blockchain?
+
+* Blockchain is a distributed database existing on multiple computers at the same time. It is constantly growing as new sets of recordings, or 'blocks', are added to it. Each block contains a timestamp and a link to the previous block, so they actually form a chain.
+
+*A blockchain consists of a number of blocks.
+
+*Blockchain is a digital ledger in which transactions are recorded chronologically and publicly.
+
+*All blocks are encrypted in a special way, so everyone can have access to all the information but only a user who owns a special cryptographic key is able to add a new record to a particular chain.
+
+*As long as you remain the only person who knows the key, no one can manipulate your transactions.
+
+2. What are the core problems Blockchain trying to solve?
+>Currency and Transaction Support
+>Supply Chains and Item Histories
+>Blockchain for Supply Chains and Item Histories
+>Voting
+>Government Operations
+>Intellectual Property
+>Marijuana Industry’s Banking and Logistics Issues
+>Cloud Storage
+>Charity
+>Real Estate
+>Crowdfunding
+
+
+
+
+3.BLOCKCHAIN FEATURES:
+
+=>Immutability
+=>Can not be Corrupted.  “Immutability”
+=>Decentralized Technology.
+=>Enhanced Security.
+=>Distributed Ledgers. ...
+=>Consensus. ...
+=>Faster Settlement.
+
+4. What all things does a blockchain contain?
+
+# Blockchain is literally just a chain of blocks.“Blocks” on the blockchain are made up of digital pieces of information.
+
+# Each block contains a cryptographic hash of the previous block,a timestamp, and transaction data.
+
+# Blocks store information about transactions like the date, time, and dollar amount of your most recent purchase from Amazon.
+
+# Blocks store information about who is participating in transactions. 
+
+# A blockchain database is managed autonomously using a peer-to-peer network and a distributed timestamping server. They are authenticated by mass collaboration powered by collective 
+   self-interests.
+
+
+5. How is the verifiability of Blockchain has been attained?
+
+We all know that blockchain ledger is public and maintaining anonymity is a daunting task. Thus, we consider Bitcoin pseudo-anonymous. By pseudo-anonymity, we mean that a person will be linked to a public Bitcoin address, but no one will get to know the actual name or address. To explain this in simple words, suppose a person sends a sum of money, then the receiver will get to know that the sender is linked to a bitcoin address but will not know the actual address.  Hence, we say that bitcoin or any other alt currencies are not entirely anonymous. There are various reasons for keeping everything hidden, the primary ones include :
+
+* Company-specific information
+* Law-enforcement related issues
+* Maintaining privacy
+To explain this in simple words, I can say that blockchain.info in its system keeps on chaining the address for a given wallet. This discourages the ability to trace payments done to a particular wallet. Some of the other platforms like Private Instant Verified Transaction (PIVX) makes use of the mixing mechanism to attain anonymity.
+By the time of block completion, the included data becomes verifiable.
+
